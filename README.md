@@ -8,7 +8,7 @@
 - ⚡ Fun fact: Amo musica e jogos 🎶🎮
 
 ### Conecte-se comigo:
-<p><a href="https://www.linkedin.com/in/joão-pedro-da-silva-correia-belluomini-7b7584178/"><img align="left" alt="| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<p><a href="https://www.linkedin.com/in/joao-belluomini/"><img align="left" alt="| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/bellumoni/"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 <br /></a></p>
 
