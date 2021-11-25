@@ -30,7 +30,8 @@
 
 ### Um Pouco do que ja fiz
 
-![Belluominus's GitHub stats](https://github-readme-stats-belluominus.vercel.app/api?username=Belluominus&show_icons=true&theme=synthwave&hide=issues)
+![Belluominus's GitHub stats](https://github-readme-stats-belluominus.vercel.app/api?username=Belluominus&show_icons=true&theme=synthwave&hide=issues)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Belluominus&layout=compact&theme=synthwave)
+:-------------------------:|-------
 
 
 ### Spotify Playing 🎸🎵🎶
