@@ -4,7 +4,7 @@
 ##
 
 - 🌱 Atualmente estou aprendendo de tudo, hehe 🤣
-- 🏢 Estou buscando uma oportunidade para atuar como desenvolvedor !
+- 🏢 Atuando como DEV no Zema !
 - ⚡ Fun fact: Amo musica e jogos 🎶🎮
 
 ### Conecte-se comigo:
