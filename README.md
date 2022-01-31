@@ -34,8 +34,8 @@
 
 <div align="center">
   <a href="https://github.com/Belluominus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Belluominus&show_icons=true&theme=synthwave&hide=issues"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belluominus&layout=compact&theme=synthwave"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Belluominus&show_icons=true&theme=synthwave&hide=issues"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belluominus&layout=compact&theme=synthwave"/>
 </div>
 
 
