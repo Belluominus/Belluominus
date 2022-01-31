@@ -8,9 +8,11 @@
 - ⚡ Fun fact: Amo musica e jogos 🎶🎮
 
 ### Conecte-se comigo:
-<p><a href="https://www.linkedin.com/in/joao-belluomini/"><img align="left" alt="| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/bellumoni/"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<br /></a></p>
+
+<div>
+  <a href="https://www.instagram.com/bellumoni/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joao-belluomini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 
 
@@ -30,8 +32,11 @@
 
 ### Um Pouco do que ja fiz
 
-![Belluominus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Belluominus&show_icons=true&theme=synthwave&hide=issues)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Belluominus&layout=compact&theme=synthwave)
-:-------------------------:|-------
+<div align="center">
+  <a href="https://github.com/Belluominus">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Belluominus&show_icons=true&theme=synthwave&hide=issues"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belluominus&layout=compact&theme=synthwave"/>
+</div>
 
 
 ### Spotify Playing 🎸🎵🎶
