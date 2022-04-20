@@ -40,5 +40,9 @@
 
 
 ### Spotify Playing 🎸🎵🎶
-
-[<img src="https://spotify-now-playing-red.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/belluominus?si=f6f32706fd6d4f48)
+<div>
+  <a href="https://open.spotify.com/user/belluominus?si=f6f32706fd6d4f48">
+    <img src="https://spotify-now-playing-red.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />
+  </a>
+  <img height="125" style="border-radius:50px;" src="https://github.com/Belluominus/blog_with_microservices/blob/main/readMeFiles/codeCat.gif">  
+</div>
