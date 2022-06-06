@@ -4,8 +4,8 @@
 ##
 
 - 🌱 Atualmente estou aprendendo de tudo, hehe 🤣
-- 🏢 Atuando como DEV no Zema !
-- ⚡ Fun fact: Amo musica e jogos 🎶🎮
+- 🏢 Atuando como DEV BackEnd na Gorila!
+- ⚡ Amo musica e jogos 🎶🎮
 
 ### Conecte-se comigo:
 
