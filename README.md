@@ -1,13 +1,11 @@
 ### Hi there, I'm João "Belluominus" Belluomini  👋
-### Apaixonado por tecnologia,  aprender, ensinar 
-> Geralmente fico mais na parte de aprender mesmo, hehe.
+
 ##
 
-- 🌱 Atualmente estou aprendendo de tudo, hehe 🤣
-- 🏢 Atuando como DEV BackEnd na Gorila!
-- ⚡ Amo musica e jogos 🎶🎮
+- 🏢 DEV BackEnd on Gorila!
+- ❤️ music and games 🎶🎮
 
-### Conecte-se comigo:
+### Connect with me:
 
 <div>
   <a href="https://www.instagram.com/bellumoni/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -16,7 +14,7 @@
 
 
 
-### Linguagens e Ferramentas:
+### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
