@@ -30,15 +30,6 @@
 
 ##
 
-### Um Pouco do que ja fiz
-
-<div align="center">
-  <a href="https://github.com/Belluominus">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Belluominus&show_icons=true&theme=synthwave&hide=issues"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belluominus&layout=compact&theme=synthwave"/>
-</div>
-
-
 ### Spotify Playing 🎸🎵🎶
 <div>
   <a href="https://open.spotify.com/user/belluominus?si=f6f32706fd6d4f48">
