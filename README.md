@@ -2,7 +2,6 @@
 
 ##
 
-- 🏢 DEV BackEnd on Gorila!
 - ❤️ music and games 🎶🎮
 
 ### Connect with me:
